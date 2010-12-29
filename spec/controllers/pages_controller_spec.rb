@@ -41,5 +41,5 @@ describe PagesController do
                                     :content => " | About")
     end
   end
-
 end
+
